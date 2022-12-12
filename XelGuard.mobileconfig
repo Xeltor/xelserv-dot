@@ -11,10 +11,7 @@
                 <string>TLS</string>
                 <!-- Quad9 fallback -->
                 <key>ServerAddresses</key>
-                <array>
-                    <string>9.9.9.9</string>
-                    <string>2620:fe::fe</string>
-                </array>
+                <string>86.90.92.105</string>
                 <key>ServerName</key>
                 <string>dot.xel-serv.com</string>
             </dict>
