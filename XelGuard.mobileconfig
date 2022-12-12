@@ -12,11 +12,11 @@
                 <!-- Quad9 fallback -->
                 <key>ServerAddresses</key>
                 <array>
-                    <string>5.2.75.75</string>
-                    <string>2a04:52c0:101:75::75</string>
+                    <string>9.9.9.9</string>
+                    <string>2620:fe::fe</string>
                 </array>
                 <key>ServerName</key>
-                <string>dot.nl.ahadns.net</string>
+                <string>dot.xel-serv.com</string>
             </dict>
             <key>PayloadDisplayName</key>
             <string>XelGuard</string>
