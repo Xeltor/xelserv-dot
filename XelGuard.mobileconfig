@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>TLS</string>
+                <!-- Quad9 fallback -->
+                <key>ServerAddresses</key>
+                <array>
+                    <string>9.9.9.9</string>
+                    <string>149.112.112.112</string>
+                </array>
+                <key>ServerName</key>
+                <string>dns.xel-serv.com</string>
+            </dict>
+            <key>PayloadDisplayName</key>
+            <string>XelGuard</string>
+            <key>PayloadIdentifier</key>
+            <string>26323648-7532-49E0-A03C-D195D3D28204.com.apple.dnsSettings.managed.23DB5A5C-1E77-49CD-ADA2-D213F97F1BC6</string>
+            <key>PayloadOrganization</key>
+            <string>Xeltor</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>23DB5A5C-1E77-49CD-ADA2-D213F97F1BC6</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>XelGuard</string>
+    <key>PayloadIdentifier</key>
+    <string>26323648-7532-49E0-A03C-D195D3D28204</string>
+    <key>PayloadOrganization</key>
+    <string>Xeltor</string>
+    <key>PayloadScope</key>
+    <string>System</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>26323648-7532-49E0-A03C-D195D3D28204</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
