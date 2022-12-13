@@ -10,7 +10,7 @@
                 <key>DNSProtocol</key>
                 <string>TLS</string>
                 <key>ServerAddresses</key>
-                <string>86.90.92.105</string>
+                <string>63.250.54.194</string>
                 <key>ServerName</key>
                 <string>dot.xel-serv.com</string>
             </dict>
