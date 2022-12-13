@@ -9,7 +9,6 @@
             <dict>
                 <key>DNSProtocol</key>
                 <string>TLS</string>
-                <!-- Quad9 fallback -->
                 <key>ServerAddresses</key>
                 <string>86.90.92.105</string>
                 <key>ServerName</key>
